@@ -71,7 +71,7 @@ function App() {
     });
   };
   return (
-    <div className="app-wrapper">dddssss
+    <div className="app-wrapper">
       <GlobalContext.Provider
         value={{
           provider,
